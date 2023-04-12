@@ -26,4 +26,4 @@ Developed and maintained various conference talks, online training, and in-perso
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
 
-*adding* a bad char for getting an artifact uploaded
+*adding* a bad char for getting a CI workflow failure
